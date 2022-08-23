@@ -1,6 +1,6 @@
 ### Hi, i'm Vladimir 👋
 ***
-Backend developer with 3+ years of commercial experience.
+Backend developer with 5+ years of commercial experience.
 ***
 <p align='center'>
     <a href="https://github-readme-stats.vercel.app/api?username=safonovva&show_icons=true&count_private=true&theme=darcula&hide_border=true"><img
